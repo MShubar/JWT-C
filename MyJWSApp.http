@@ -1,0 +1,6 @@
+@MyJWSApp_HostAddress = http://localhost:5090
+
+GET {{MyJWSApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
